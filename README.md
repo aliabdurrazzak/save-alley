@@ -6,4 +6,4 @@ Solve the puzzle and free alley now! 🔒
 
 > *there's kunjaw! but try to solve it your own!*
 
-📌 Play now [Here](aliabdurrazzak.github.io/save-alley/) 🔢
+📌 Play now [Here](https://aliabdurrazzak.github.io/save-alley/) 🔢
