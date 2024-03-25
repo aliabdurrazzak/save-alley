@@ -123,8 +123,8 @@ function onCodeInput(number) {
         guess3.disabled = true;
         continueButton.disabled = false;
         headerLabel.innerHTML = "ANJAY! THANKS FOR SAVING ALLEY!";
-        document.getElementById("lockAnimation").style.backgroundPosition = "0px -40px";
-        animateWithReflow("continueButton", "bounce-in");
+        document.querySelector('.lock-base').style.backgroundImage = "url('res/unlockBase.png')";
+        continueButton.classList.remove('animate-with-reflow');
     }
 }
 
